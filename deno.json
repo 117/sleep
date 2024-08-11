@@ -1,0 +1,10 @@
+{
+    "name": "@117/sleep",
+    "description": "A promise-based sleep function for Deno.",
+    "version": "1.0.0",
+    "exports": "./mod.ts",
+    "imports": {
+        "@/": "./",
+        "assert": "https://deno.land/std@0.224.0/assert/mod.ts"
+    }
+}
